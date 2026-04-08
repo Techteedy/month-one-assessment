@@ -1,0 +1,5 @@
+﻿terraform.tfstate
+terraform.tfstate.backup
+techcorp-key.pem
+techcorp-key.ppk
+.terraform/
